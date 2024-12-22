@@ -1,0 +1,16 @@
+{"action": "created", "path": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-22 15:43:54"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-22 15:43:54"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-22 15:43:54"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-22 15:43:54"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-22 15:46:35"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-22 15:46:35"}
+{"action": "deleted", "path": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-22 15:46:46"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-22 15:46:46"}
+{"action": "created", "path": "/home/ubuntu/bsm/test/test_file2.txt", "timestamp": "2024-12-22 15:57:09"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-22 15:57:09"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test/test_file2.txt", "timestamp": "2024-12-22 15:57:09"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-22 15:57:09"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test/test_file2.txt", "timestamp": "2024-12-22 15:57:19"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-22 15:57:19"}
+{"action": "deleted", "path": "/home/ubuntu/bsm/test/test_file2.txt", "timestamp": "2024-12-22 15:57:25"}
+{"action": "modified", "path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-22 15:57:25"}
